@@ -6,7 +6,7 @@ import "./GameContainer.css";
 class GameContainer extends Component {
     state = {
         images,
-        message: "Click a flag to begin",
+        message: "Click on a bowl of oatmeal to begin",
         score: 0,
         highScore: 0
     };
@@ -20,7 +20,7 @@ class GameContainer extends Component {
             });
             return this.setState({
                 image: imageOrder.sort(() => Math.random() - 0.5),
-                message: "Incorrect, try again",
+                message: "You already clicked on that one!",
                 score: 0
             });
         } else {
@@ -62,7 +62,7 @@ class GameContainer extends Component {
                             image = { image.image }
                             handleClick = { this.handleClick }
                         />
-                    )) };
+                    )) }
                 </div>
             </div>
         </div>

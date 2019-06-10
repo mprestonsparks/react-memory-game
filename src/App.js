@@ -1,6 +1,6 @@
 import React from "react";
 import Jumbotron from "./components/Jumbotron";
-import GameContainer from "./components/MainGameContainer";
+import GameContainer from "./components/GameContainer";
 import "./App.css";
 
 const App = () => (

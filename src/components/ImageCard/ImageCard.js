@@ -13,6 +13,6 @@ const ImageCard = props => (
             alt = { props.name } 
         />
     </div>
-);
+)
 
 export default ImageCard;
