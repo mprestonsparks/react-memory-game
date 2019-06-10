@@ -42,9 +42,31 @@ class GameContainer extends Component {
         };
     };
 
-    render () {
-        return (
-            
-        )
-    }
-}
+    render () { return (
+        <div className="container-fluid mainCardContainer">
+            <div className="gameMessage text-center">
+                <p> {this.state.message} </p>
+            </div>
+
+            <div className="gameScores text-center">
+                <p> Score: {this.state.score} | High Score: {this.state.highScore} </p>
+            </div>
+            <div className="container">
+                <div className="row">
+                    { this.state.images.map(image => (
+                        < ImageCard 
+                            key = { image.id }
+                            id = { image.id }
+                            name = { image.name }
+                            clicked = { image.clicked }
+                            image = { image.image }
+                            handleClick = { this.handleClick }
+                        />
+                    )) };
+                </div>
+            </div>
+        </div>
+    )};
+};
+
+export default GameContainer;
