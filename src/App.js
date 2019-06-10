@@ -1,9 +1,13 @@
 import React from "react";
-import Form from "./components/Form";
+import Jumbotron from "./components/Jumbotron";
+import GameContainer from "./components/MainGameContainer";
+import "./App.css";
 
-function App() {
-  return <Form />;
-  // Create components for layout here
-}
+const App = () => (
+  <div className="container-fluid mainContainer">
+    <Jumbotron />
+    <GameContainer /> 
+  </div>
+);
 
 export default App;

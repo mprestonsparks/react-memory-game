@@ -1,0 +1,114 @@
+[
+    {
+      "id": 1,
+      "name": "Afghanistan",
+      "clicked": false,
+      "image":
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Afghanistan.svg/2560px-Flag_of_Afghanistan.svg.png"
+    },
+    {
+      "id": 2,
+      "name": "Australia",
+      "clicked": false,
+      "image":
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/2880px-Flag_of_Australia_%28converted%29.svg.png"
+    },
+    {
+      "id": 3,
+      "name": "Belgium",
+      "clicked": false,
+      "image":
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_Belgium_%28civil%29.svg/2560px-Flag_of_Belgium_%28civil%29.svg.png"
+    },
+    {
+      "id": 4,
+      "name": "Cambodia",
+      "clicked": false,
+      "image":
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_Cambodia.svg/2560px-Flag_of_Cambodia.svg.png"
+    },
+    {
+      "id": 5,
+      "name": "Ethiopia",
+      "clicked": false,
+      "image":
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Flag_of_Ethiopia.svg/2880px-Flag_of_Ethiopia.svg.png"
+    },
+    {
+      "id": 6,
+      "name": "Georgia",
+      "clicked": false,
+      "image":
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Flag_of_Georgia.svg/2560px-Flag_of_Georgia.svg.png"
+    },
+    {
+      "id": 7,
+      "name": "Grenada",
+      "clicked": false,
+      "image":
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Grenada.svg/2560px-Flag_of_Grenada.svg.png"
+    },
+    {
+      "id": 8,
+      "name": "Haiti",
+      "clicked": false,
+      "image":
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Flag_of_Haiti.svg/2560px-Flag_of_Haiti.svg.png"
+    },
+    {
+      "id": 9,
+      "name": "Iran",
+      "clicked": false,
+      "image":
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Flag_of_Iran.svg/2560px-Flag_of_Iran.svg.png"
+    },
+    {
+      "id": 10,
+      "name": "Kazakhstan",
+      "clicked": false,
+      "image":
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Flag_of_Kazakhstan.svg/2880px-Flag_of_Kazakhstan.svg.png"
+    },
+    {
+      "id": 11,
+      "name": "Kenya",
+      "clicked": false,
+      "image":
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Kenya.svg/2560px-Flag_of_Kenya.svg.png"
+    },
+    {
+      "id": 12,
+      "name": "Kiribati",
+      "clicked": false,
+      "image":
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Flag_of_Kiribati.svg/2880px-Flag_of_Kiribati.svg.png"
+    },
+    {
+      "id": 13,
+      "name": "Kyrgyzstan",
+      "clicked": false,
+      "image":
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Flag_of_Kyrgyzstan.svg/2560px-Flag_of_Kyrgyzstan.svg.png"
+    },
+    {
+      "id": 14,
+      "name": "Lesotho",
+      "clicked": false,
+      "image":
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Flag_of_Lesotho.svg/2560px-Flag_of_Lesotho.svg.png"
+    },
+    {
+      "id": 15,
+      "name": "Marshall Islands",
+      "clicked": false,
+      "image":
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Flag_of_the_Marshall_Islands.svg/2880px-Flag_of_the_Marshall_Islands.svg.png"
+    },
+    {
+      "id": 16,
+      "name": "Artsakh",
+      "clicked": false,
+      "image":
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Flag_of_Artsakh.svg/2880px-Flag_of_Artsakh.svg.png"
+    }
+  ]
